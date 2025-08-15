@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE3NjUyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4RGM1QmU0Mjg2MEZBRDQ3MTFlQTQ5Nzk4QzE2RDRmMjgwQUMxMzZGMyJ9",
+    "payload": "eyJkb21haW4iOiJmbGlwLXRvLWVhcm4udmVyY2VsLmFwcCJ9",
+    "signature": "MHgzYTc2ZDM3YTY2ZmQwMjU0YjQwZDcwNmU0NmY0NDY4NTZjM2QxNTQ4ZDg5OTczM2I5YzcyN2VkMDI5YmRjNmJkNmIxMzAyMWNmMjkzMDFjMDZjODU2ODE0YTU3YzlmM2MzYzMxOTNjOTRiNzE3MDAxNTdlMjUyZGU2YjMzNDg5YTFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "FlipToEarn",
+    "iconUrl": "https://flip-to-earn.vercel.app/icon.png",
+    "homeUrl": "https://flip-to-earn.vercel.app",
+    "imageUrl": "https://flip-to-earn.vercel.app/image.png",
+    "buttonTitle": "Arbitrum Vs Base",
+    "splashImageUrl": "https://flip-to-earn.vercel.app/splash.png",
+    "splashBackgroundColor": "#111111",
+    "webhookUrl": "https://flip-to-earn.vercel.app/api/webhook"
+  }
+}
