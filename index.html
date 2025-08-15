@@ -122,8 +122,8 @@
 
     /* ---------- Load contract JSONs ---------- */
     async function loadJson(path){ const r = await fetch(path); if(!r.ok) throw new Error(`Failed to load ${path}`); return r.json(); }
-    const arbJson = await loadJson('/public/arbitrumGame.json');   // { address, abi }
-    const baseJson = await loadJson('/public/baseClaim.json');     // { address, abi }
+    const arbJson = await loadJson('/arbitrumGame.json');   // { address, abi }
+    const baseJson = await loadJson('/baseClaim.json');     // { address, abi }
 
     const ARB_ADDR = arbJson.address, ARB_ABI = arbJson.abi;
     const BASE_ADDR = baseJson.address, BASE_ABI = baseJson.abi;
