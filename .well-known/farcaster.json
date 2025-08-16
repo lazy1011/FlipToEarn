@@ -7,12 +7,12 @@
   "frame": {
     "version": "1",
     "name": "FlipToEarn",
-    "iconUrl": "https://flip-to-earn.vercel.app/icon.png",
-    "homeUrl": "https://flip-to-earn.vercel.app",
-    "imageUrl": "https://flip-to-earn.vercel.app/image.png",
+    "iconUrl": "https://flip-to-earn-two.vercel.app/icon.png",
+    "homeUrl": "https://flip-to-earn-two.vercel.app/",
+    "imageUrl": "https://flip-to-earn-two.vercel.app/image.png",
     "buttonTitle": "Arbitrum Vs Base",
-    "splashImageUrl": "https://flip-to-earn.vercel.app/splash.png",
+    "splashImageUrl": "https://flip-to-earn-two.vercel.app/splash.png",
     "splashBackgroundColor": "#111111",
-    "webhookUrl": "https://flip-to-earn.vercel.app/api/webhook"
+    "webhookUrl": "https://flip-to-earn-two.vercel.app/api/webhook"
   }
 }
