@@ -1,5 +1,5 @@
 {
-  "address": "0x926EF1717d2899f93DBbdFb8Bc72aDA9E3279072",
+  "address": "0x49F2B3386Dbb06634eE822cE2Fac28F8C4e7E6B3",
   "abi": [
     {"inputs":[],"stateMutability":"nonpayable","type":"constructor"},
     {"inputs":[{"internalType":"address","name":"owner","type":"address"}],"name":"OwnableInvalidOwner","type":"error"},
